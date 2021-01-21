@@ -1,0 +1,10 @@
+body {
+    background-image: url('https://digitaladdictsblog.com/wp-content/uploads/2019/01/shutterstock_295846730.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
