@@ -9,6 +9,9 @@ body {
     margin-bottom: 5%;
 }
 
+.card-content {
+    display: flex;
+}
 /* .demo-cards {
     margin: auto;
 } */
